@@ -20,4 +20,3 @@
 - Watchout for positions, this can heavily affect a fight, it could allow your DPS to attack the dangerous threats, dodge straightline skillshots, avoid AoE and so on.
 - There some additional notes in positions and counters folders, check them out if you are interested.
 - In the draft notes, you probably will see me repeat watchout for type synergy a lot. If you have a hard counter but it breaks synergy then don't mind and just go for it, that note is just a general rule.
-- Test
