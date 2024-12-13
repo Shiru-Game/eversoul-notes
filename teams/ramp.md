@@ -58,6 +58,14 @@
     - With multiple layers of defense buffs, shield, heal and damage reduction. Despite being a bit slow, this variant boasts high survivability and can play well into assassins and snipers formations. 
     - `Tohka` can take the initial dive from `Jacqueline` with little health loss before she join the frontline. 
     - `Catherine (Radiance)` has a 3-second damage immune if her ultimate had been used, you can time this into enemy DPS bursts to nullify them, like bursts from `Aki` and `Linzy` mains since `Catherine (Radiance)` in her ultimate form has the highest attack in this variant.
+- `Dive variant`: `Claire - Beleth - Yuria - Aki - Kurumi`
+    - Quite a tricky one to position, this requires `Claire` to dive fairly deep, setups a grouped up area.
+    - The sequence is as follow: 
+        - `Aki` deal an initial attack to the highest ATK target, even better if said target is in the backline.
+        - `Claire` dives in, establish a deep line in which the enemy front is close to the enemy rear.
+        - `Kurumi` dives in, to the back of the nearest target and does her AoE skill. The closer the enemy front to their rear, the better it is.
+    - This team requires clear understanding of position to perform, if you can find the perfect scenario, they can be a strong option against ranged heavy comps.
+    - Check `Claire's` [position note](../positions/claire.md) to see how to push the line in further and enable this variant.
 
 ### Manual notes:
 - Don't spam support souls' main, use it at the right time. The main goal is to survive and burst.

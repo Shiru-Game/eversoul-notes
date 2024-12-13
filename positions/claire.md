@@ -5,8 +5,13 @@
 ## Dive toward melee soul
 - This will create a semi-taunt situation where `Claire` absorbs all the aggro.
 
+## Dive toward melee soul with a delayed movement
+- Against melee soul that has to perform a skill before they move, `Claire` will move first and push the line in further, this is equivalent to diving toward a ranged soul.
+- Some examples: `Aki`, `Catherine (Radiance)`, `Sakuyo`
+
 ## Dive toward ranged soul
 - This will break the enemy formation, their melee souls collapse forward while `Claire` is in the enemy backline.
+- The line in this case will be pushed in more since they stand further back.
 
 ## AVOID: Dive toward Claire
 - This will cause both `Claires` to switch place and dive deep in the enemy backline.
