@@ -82,4 +82,5 @@
 |4,5|Tech|Soonie|Sub tank|Heal over time, attack down, buffs cleanse|
 |4,5|Tech|Petra|Sub tank|Shield, damage sharing, self heal, highest attack bait|
 |4,5|Tech|Miriam|Sub DPS/Offensive support|Defense/resistance down, attack down, burst|
-|4,5|Tech|Petra|Sub DPS/Offensive support|Increase damage received, charm|
+|4,5|Tech|Kanna|Sub DPS/Offensive support|Increase damage received, charm|
+|4,5|Tech|Onyx|Support|Attack and HP up, heal, damage reduction, crit rate up, mana recovery|
