@@ -50,7 +50,12 @@
 - `Pick`: `Lizelotte - Eve - Adrienne - Nicole - [Tank]`
     - The sequence from `Adrienne` - `Nicole` - `Lizelotte` can burst soul(s) quickly.
 - `Speed`: `Lizelotte - Eve - Vivienne - Honglan - [Tank]`
-    - With `Vivienne` and `Honglan`, `Lizelotte` is more likely to move first and burst.
+    - Simple use: With the speed manipulation passives from `Vivienne` and `Honglan`, `Lizelotte` is more likely to move first and burst.
+    - If the passives of `Honglan` and `Vivienne` aren't enough, try the advance usage below:
+        - `Eve + Vivienne`: Align them to clip as many enemies as possible or at least the annoying ones you want to stop.
+        - `Eve` has a mana reduction while `Vivienne` has a knockdown (if her artifact is upgraded).
+        - In combination with `Honglan`, this trio will completely shutdown the enemies' ability to use main/ultimate (slow, mana drain, knock down) if you time correctly.
+        - This is very useful when you play against a team with annoying main/ultimate skills.
 - `Anti Jacqueline`: `Lizelotte - Eve - Naiah - Prim/Yuria/Wheri/Talia - [Tank]`
     - `Naiah` can put her to sleep on the dive and stall her invisibility out for `Lizelotte` to attack.
 - `Anti assassins`: `Lizelotte - Eve - Prim/Yuria/Wheri/Talia x 2 - Chloe/Daphne`
