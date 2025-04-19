@@ -7,6 +7,7 @@
 - [Operators Flex](./teams/operators-flex.md)
 - [MiHa Front](./teams/miha-front.md)
 - [CLinzy Flex](./teams/clinzy-flex.md)
+- [Hanul Flex](./teams/hanul-flex.md)
 
 ## Notes
 - Everything listed here is relative to my progress and experience so I can't guarantee that it will work well for you.
