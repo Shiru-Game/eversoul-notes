@@ -13,9 +13,11 @@
 - This will break the enemy formation, their melee souls collapse forward while `Claire` is in the enemy backline.
 - The line in this case will be pushed in more since they stand further back.
 
-## AVOID: Dive toward Claire
+## Dive toward Claire
 - This will cause both `Claires` to switch place and dive deep in the enemy backline.
-- At higher difficulty stage, player is on the losing side. Due to their pure stat, enemy `Claire` can single-handedly wipe the backline (some bulkier backlines can handle it better) despite being a tank.
+- At higher difficulty stage, player might be on the losing side. Due to their pure stat, enemy `Claire` can single-handedly wipe the backline (some bulkier backlines can handle it better) despite being a tank.
+- However, in certain situation, a proper synergized team will be able to wipe the enemy `Claire` first. This allow the rest of the team to follow up on ally `Claire`.
+- In summary, this can be either good or bad based on different factors. 
 
 ## AVOID: Dive toward Jacqueline
 - Enemy `Jacqueline` will pull `Claire` backward into the backline, leaving the formation vulnerable to attacks since `Claire` isn't in front to soak aggro.

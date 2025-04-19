@@ -8,4 +8,6 @@
 - `Eileen`
 - `Melfice`
 - `Jacqueline`
+- `Hanul`
 - `Claire`: Technically not an assassin but her diving and AoE will be unreasonably strong in high difficulty stages.
+- `Honglan (Peerless)`: Technically not an assassin but her diving and AoE will be unreasonably strong in high difficulty stages.

@@ -1,11 +1,12 @@
 # 5v5 Formations
 
 ## Teams
-- [Lizelotte-Eve Flex](./teams/liz-eve-flex.md)
+- [Hyper Offense Eve Flex](./teams/hyper-eve-flex.md)
 - [Claudia Flex](./teams/claudia-flex.md)
 - [Ramp](./teams/ramp.md)
 - [Operators Flex](./teams/operators-flex.md)
 - [MiHa Front](./teams/miha-front.md)
+- [CLinzy Flex](./teams/clinzy-flex.md)
 
 ## Notes
 - Everything listed here is relative to my progress and experience so I can't guarantee that it will work well for you.

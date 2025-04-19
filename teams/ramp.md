@@ -4,8 +4,8 @@
 
 ### Specialty: Ramp
 
-### Core (Flex): Aki/Catherine (Radiance)
-- Doesn't have a fixed core, this team switches between `Aki` and `Catherine (Radiance)` as main DPS, sometimes use both of them together.
+### Core (Flex): Hyper Offense/Edith/Lizelotte
+- Doesn't have a fixed core, this team switches between the hyper offense souls as main DPS, sometimes use a combination of them together.
 - Other slots are flexible, allow great adaptability into multiple formations.
 - The main goal is to get mana to use powerful main/ultimate.
 
@@ -38,21 +38,24 @@
     - `Chloe`: Group melee enemies.
     - `Daphne`: Damage reduction, deal AoE damage and stun.
     - `Claire`: Push the line, making enemy front and back closer and make more space for ally souls.
+    - `Honglan`: Push the line, making enemy front and back closer and make more space for ally souls, various utilities when in ultimate form.
 - *Main DPS*: Recommend to pick between `Aki` and `Catherine (Radiance)`.
     - `Aki`: Faster peak, stronger burst but squishier and doesn't have the utility `Catherine (Radiance)` provides.
     - `Catherine (Radiance)`: Slower peak, weaker burst but has constant and stable DoT/DPS. On top of that, her kit before using ultimate has very good utility.
+    - `Edith`: Very high burst if buffed properly. When paired with good defensive souls, she can decimate almost anything.
+    - `Lizelotte`: Very high burst if buffed properly. Since she's mostly at rear, she is safer and easier to draft, although her damage might be weaker than that of `Edith`
 - *Supports*: Pick 1-3 support soul(s) that contribute to type synergy after picking *main tank* and *main DPS*. Recommend to pick at least 2 supports, the last spot can be sub DPS, sub tank, support or utility soul.
 
 ### Templates
 - Here are some variants I used.
 - Be mindful of type synergy, since there are a lot of tech souls from different types, not every tech will fit in the sample variants.
-- `Standard variant`: `Claire/Chloe/Daphne - Beleth - Yuria - Aki/Catherine (Radiance) - Flex`
+- `Standard variant`: `Claire/Chloe/Daphne - Beleth - Yuria - Hyper Offense - Flex`
     - Balanced between max HP buffs and heals.
-- `Burst heals variant`: `Claire/Chloe/Daphne - Beleth - Wheri - Aki/Catherine (Radiance) - Flex`
+- `Burst heals variant`: `Claire/Chloe/Daphne - Beleth - Wheri - Hyper Offense - Flex`
     - High heals throughout the fight, useful when you play against DoT, AoE or early peak teams.
-- `Maximum sustain variant`: `Chloe/Daphne - Beleth - Yuria - Wheri - Aki/Catherine (Radiance)`
+- `Maximum sustain variant`: `Chloe/Daphne - Beleth - Yuria - Wheri - Hyper Offense`
     - High defense paired with sustain to ensure DPS soul(s) can ramp.
-- `Turbo variant`: `Claire/Chloe/Daphne - Talia - Yuria - Aki/Catherine (Radiance) - Flex`
+- `Turbo variant`: `Claire/Chloe/Daphne - Talia - Yuria - Hyper Offense - Flex`
     - Focus more on speed and mana charging, healing is weaker so evaluate the enemy formation before using.
 - `Defense variant`: `Chloe/Daphne - Yuria/Talia - Wheri - Catherine (Radiance) - Tohka`
     - With multiple layers of defense buffs, shield, heal and damage reduction. Despite being a bit slow, this variant boasts high survivability and can play well into assassins and snipers formations. 
@@ -76,8 +79,11 @@
 |1|Core/Flex|Claire|Tank|Stall, push the line, group front and back so the rest of the team is safe to ramp|
 |1|Core/Flex|Chloe|Tank|Stall, taunt, group melee souls|
 |1|Core/Flex|Daphne|Tank|Stall, damage reduction, return damage|
+|1|Core/Flex|Honglan (Peerless)|Tank|Stall, push the line, damage reduction, damage increase, mana reduction, DoT, RES down, SPD buff, Shield, Acc/Eva down|
 |2|Core/Flex|Aki|Front DPS/Assassin|Single target DPS, burst, dive|
 |2|Core/Flex|Catherine (Radiance)|Sub-tank/support/DPS|Damage reduction, shield, burn, DPS, AoE DPS, burst|
+|2|Core/Tech|Lizelotte|Rear DPS|Hyper bursts, both single and straightline, cleanse buffs|
+|2|Core/Tech|Edith|Front DPS|Hyper bursts, single target, cleanse buffs, RES up, guarateed crits, DEF reduction, SPD reduction|
 |3,4,5|Tech|Beleth|Support|Heal, cleanse, max HP, damage, crit rate and damage buff|
 |3,4,5|Tech|Yuria|Support|Heal, max HP buff, debuff cleanse, attack and speed buff, type advantage buff|
 |3,4,5|Tech|Talia|Defensive Support|Buff, bulk doping, debuff cleanse|
@@ -91,7 +97,9 @@
 |3,4,5|Tech|Kurumi|Sub-DPS|Sub DPS, evasive, burst, dive|
 |3,4,5|Tech|Tohka|Sub-DPS/Sub-tank|Sub DPS, sub tank, ramp, burst, defense|
 |3,4,5|Tech|Nicole|Rear DPS/Offensive support|Single target DPS, tank/evasion counter, increase crit rate received|
+|3,4,5|Tech|Sigrid|Sub-DPS, Rear Sniper|Buffs cleansing, sniper, untargetable, damage buff, DEF decrease, CRATE up, mana restore|
 |3,4,5|Tech|Vivienne|Sub-DPS/Offensive Support|Speed buffer|
 |3,4,5|Tech|Honglan|Sub-DPS/Offensive Support|Slow debuffer, evasion reduction, mana drain|
 |3,4,5|Tech|Naiah|Sub-DPS|Jacqueline's counter|
 |3,4,5|Tech|Ayame|Sub-DPS|DoT, bleed, bind souls|
+|3,4,5|Tech|Weiss|Sub-DPS/Debuff/AoE|Slow debuffer, AoE damage, Backup damage|

@@ -31,7 +31,7 @@
 ### Recommended to play against:
 - `Claire`: Since this team can freely tech `Jacqueline`, it's a very good [counter](../counters/souls/claire.md) to `Claire`.
 - `Strong rear soul on the side`: If `Jacqueline` is drafted to the last spot, she synergizes well with the buffs and debuffs to quickly take them out.
-- `Melee teams`: `Lilith` is great at dealing with a grouped up formation. If `Ayame` is drafted, she can bind souls from the beginning of the fight and delay their rotation with her S1, *this is my second go-to counter to `Aki` after `Lizelotte`*.
+- `Melee teams`: `Lilith` is great at dealing with a grouped up formation. If `Ayame` is drafted, she can bind souls from the beginning of the fight and delay their rotation with her S1.
 - `Ranged teams`: `Claire + Jacqueline` is one of the best combo to break ranged formations, `Claire` draws most of the aggro and deal an AoE burst allow `Jacqueline` to 1v1 safer while `Mephistopheles + Lilith` work on their magic.
 
 ### Draft notes:
@@ -39,7 +39,7 @@
     - `Chloe`: Group melee enemies.
     - `Daphne`: Damage reduction, deal AoE damage and stun.
     - `Claire`: Push the line, making enemy front and back closer for AoE.
-- If `Ayame` is drafted, align her to bind dangerous threats like `Aki`.
+- If `Ayame` is drafted, align her to bind dangerous threats.
 - If `Jacqueline` is drafted, align her to be `Claire's` target or dive straight to the backline.
 - If you align `Mephistopheles` correctly, she can snipe diagonally to support `Jacqueline`.
 - The remaining 2 spots are quite flexible so draft counters based on what you need.
@@ -56,13 +56,14 @@
 - `Mages`: `Claire - Beleth - Mephistopheles - Lilith - Dominique`
 
 ### Manual notes:
-- Use `Lilith's` main/ultimate first before `Mephistopheles's` main/ultimate to benefit from the buffs. 
+- Use `Lilith's` main/ultimate first before `Mephistopheles's` main/ultimate. 
 
 |ID|Slot Type|Soul|Role|Role's duty|
 |:---:|:---:|:---:|:---:|:---:|
 |1|Core/Flex|Chloe|Tank|Stall, taunt, group melee souls|
 |1|Core/Flex|Daphne|Tank|Stall, damage reduction, return damage|
 |1|Core/Flex|Claire|Tank|Stall, push the line, group front and back so the rest of the team is safe to ramp/attack|
+|1|Core/Flex|Honglan (Peerless)|Tank|Stall, push the line, damage reduction, damage increase, mana reduction, DoT, RES down, SPD buff, Shield, Acc/Eva down|
 |2|Core|Mephistopheles|DPS/Offensive Support|DPS and increase enemies chance to take crits|
 |3|Core|Lilith|DPS/Offensive Support|DPS, damage reduction, DEF reduction, magic resistance reduction, buff operator souls|
 |4,5|Tech|Beleth|Support|Heal, cleanse, max HP, damage, crit rate and damage buff|
@@ -74,6 +75,7 @@
 |4,5|Tech|Hazel|Sub-DPS|Backup DPS|
 |4,5|Tech|Nicole|Rear DPS/Offensive support|Single target DPS, tank/evasion counter, increase crit rate received|
 |4,5|Tech|Honglan|Sub-DPS/Offensive Support|Slow debuffer|
+|4,5|Tech|Weiss|Sub-DPS/Debuff/AoE|Slow debuffer, AoE damage, Backup damage|
 |4,5|Tech|Jiho|Support|Heal, cleanse, crit rate buff|
 |4,5|Tech|Yuria|Support|Heal, debuff cleanse, attack and speed buff, type advantage buff|
 |4,5|Tech|Talia|Defensive Support|Buff, bulk doping, debuff cleanse|

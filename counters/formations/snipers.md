@@ -10,3 +10,4 @@
 - `Manon`
 - `Naiah`
 - `Ayame`
+- `Weiss`
